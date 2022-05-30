@@ -1,0 +1,31 @@
+.tophead p {
+  margin: 0;
+}
+.carousel-item img {
+  height: 400px;
+  width: auto;
+  border-radius: 10px;
+}
+img.thuonghieu {
+  width: 100px;
+}
+* {
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+p {
+  margin-bottom: 5px;
+}
+table.thongtin th {
+  width: 30%;
+  text-align: right;
+  color: gray;
+}
+table.tongquan th {
+  width: 40%;
+  text-align: right;
+  color: gray;
+}
+.card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
